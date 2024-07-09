@@ -1,4 +1,4 @@
-# **Hello There** This is a Pyautogui + Tesseract Python program to automate gas mining in Eve Online on MacOS
+# This is a Pyautogui + Tesseract Python program to automate gas mining in Eve Online on MacOS
 
 ## I am more than happy for you to help me with this project since I'm working on this alone and all the codes are very scuffed, just send me a dm on discord. My discord: e__e_e__
 
