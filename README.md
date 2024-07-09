@@ -1,4 +1,6 @@
-$\color{red}{\textsf{I am more than happy for you to help me with this project since I'm working on this alone and all the codes are very scuffed, just send me a dm on discord. My discord: e__e_e__}}$
+$\color{red}{\textsf{I am more than happy for you to help me with this project since I'm working on this alone and all the codes are very scuffed, just send me a dm on discord.}}$
+ My discord: e__e_e__
+
 ### This is currently a Pyautogui + Tesseract Python program to automate gas mining in Eve Online on MacOS
 
 ### The project goal is to automate as many things as possible in Eve Online on MacOS
