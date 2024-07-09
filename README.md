@@ -11,3 +11,7 @@
 ### what you need to do is go into a system, bookmark the GAS(not the gas site), and bookmark the station, have your d-scan, overview, and inventory open, go to the station, have your inventory open there as well, then you will need to change some of the clicking positions in the program to your gui position, use the video demo below as a reference.
 
 ### No video here yet :) im lazy, ill do it later
+
+
+
+Things to work on next: get a video up there^^, and make a screen recorder that records 30 seconds before and after identifying enemy warping in.
