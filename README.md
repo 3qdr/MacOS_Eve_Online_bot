@@ -1,5 +1,6 @@
 $\color{lime}{\textsf{I am more than happy for you to help me with this project since I'm working on this alone and all the codes are very scuffed, just send me a dm on discord.}}$
-$\color{lime}{\textsf{My discord: e__e_e__ , I should respond within a day}}$
+My discord: e__e_e__
+
 
 ### This is currently a Pyautogui + Tesseract Python program to automate gas mining in Eve Online on MacOS
 
