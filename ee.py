@@ -1,0 +1,63 @@
+import pyautogui,time
+if 1==1:
+    #warp back
+    time.sleep(2)
+    pyautogui.click(80, 610)
+    time.sleep(0.1)
+    pyautogui.rightClick(80, 610)
+    time.sleep(0.1)
+    pyautogui.moveRel(40, 10)
+    time.sleep(0.1)
+    pyautogui.click()
+
+
+    #move items
+    time.sleep(50)
+    time.sleep(2)
+    pyautogui.click(1400,900)
+    time.sleep(0.1)
+    pyautogui.click()
+    time.sleep(0.5)
+    pyautogui.click(1700,950)
+    time.sleep(0.1)
+    pyautogui.rightClick(1700,950)
+    pyautogui.moveRel(30,110)
+    pyautogui.click()
+    time.sleep(0.1)
+    pyautogui.click()
+
+    time.sleep(1)
+
+
+    pyautogui.click(1450,900)
+    time.sleep(0.1)
+    pyautogui.dragTo(1400,930,button="left")
+    time.sleep(10)
+    #get back
+
+    time.sleep(2)
+    pyautogui.click(1765, 100)
+    time.sleep(0.4)
+    pyautogui.click(1765, 261)
+    time.sleep(15)
+    pyautogui.rightClick(300, 600)
+    time.sleep(0.04)
+    pyautogui.moveRel(40, 10)
+    time.sleep(0.1)
+    pyautogui.click()
+    time.sleep(1)
+    pyautogui.click(864, 705)
+    time.sleep(1)
+    pyautogui.click()
+    time.sleep(50)
+    pyautogui.keyDown("ctrl")
+    time.sleep(0.1)
+    pyautogui.click(1721, 264)
+    time.sleep(0.1)
+    pyautogui.click()
+    time.sleep(0.1)
+    pyautogui.keyUp("ctrl")
+    time.sleep(5)
+    pyautogui.press("f2")
+    time.sleep(0.1)
+    pyautogui.press("f3")
